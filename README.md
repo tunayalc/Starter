@@ -85,12 +85,3 @@ Bir öğrencinin bilgilerini ve adres bilgilerini yapı (struct) kullanarak tuta
 - Dinamik bellek kullanımı: `malloc`, `free`
 - Girdi: Öğrenci adı, numarası, not ortalaması ve adres bilgileri
 
----
-
-## Derleme ve Çalıştırma
-
-Her C dosyası bağımsız olarak çalıştırılabilir. Örnek kullanım:
-
-```bash
-gcc "Calculator.c" -o calculator
-./calculator
